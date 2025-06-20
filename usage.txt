@@ -1,0 +1,4 @@
+# Search by username
+python main.py --username <USERNAME>
+# Or check email breaches
+python main.py --email <EMAIL>
