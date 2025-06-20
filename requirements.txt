@@ -1,0 +1,5 @@
+sherlock-youtube-dl-wrapper  # For running Sherlock programmatically
+requests                      # HTTP requests for scraping
+beautifulsoup4                # HTML parsing
+jinja2                        # Templating for HTML report
+pyinstaller                   # Packaging into .exe (dev dependency)
